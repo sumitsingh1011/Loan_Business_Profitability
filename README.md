@@ -46,3 +46,7 @@ Microsoft Excel — Tables, PivotTables, PivotCharts, Slicers, Calculated Fields
 
 
 **Students:** Tufan Bera, Spriha Sahu, Sumit Singh
+
+
+<img width="1026" height="542" alt="image" src="https://github.com/user-attachments/assets/3ce736e8-f4d8-482e-8652-a95ac143c9e7" />
+
