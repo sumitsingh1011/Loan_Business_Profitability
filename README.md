@@ -2,7 +2,6 @@
 
 An Excel-based analysis of a **500-loan portfolio** (Car, Bike, Laptop, Mobile Phone) that identifies where the business is losing money and what management can do about it.
 
-![Loan Portfolio Dashboard](dashboard_screenshot.png)
 
 ## Overview
 
